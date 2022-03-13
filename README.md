@@ -1,6 +1,6 @@
 # WLED в простых устройствах
 
-Простое устройство для интеграции в Majordomo устройств на прошивке WLED [](https://github.com/Aircoookie/WLED)
+Простое устройство для интеграции в Majordomo устройств на прошивке [WLED](https://github.com/Aircoookie/WLED)
 
 ![](https://connect.smartliving.ru/cms/data_images/1450_image.png)
 
