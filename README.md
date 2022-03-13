@@ -8,7 +8,7 @@
 
 # Resources
 
- * [Страница проекта](https://connect.smartliving.ru/tasks/681.html) 
+ * [Страница проекта](https://connect.smartliving.ru/tasks/681.html)
  * [Страница дополнения](https://connect.smartliving.ru/addons/category6/234.html)
 
 Прошивка Wled управляет адресной лентой ws2812b.
@@ -36,5 +36,3 @@ WEBUI прошивки
 В настройках ПУ есть поле IP, в нем указывается IP адрес устройства, по этому адресу нажатием кнопки ⚙️ вызывается WEBUI устройства.
 
 ![](https://mjdm.ru/forum/download/file.php?id=18626)
-
-Настройки MQTT
